@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(py \"C:\\\\Users\\\\USER\\\\Downloads\\\\audit_data.py\")"
+    ]
+  }
+}

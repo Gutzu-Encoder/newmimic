@@ -1,0 +1,11 @@
+HADM_ID, icd_long_title,                                              clinical_gt,                              structural
+197345,  Secondary malignant neoplasm retroperitoneum/peritoneum,     Metastatic breast cancer,                 True
+101908,  Other pulmonary insufficiency NEC,                           Post-obstructive pneumonia (RCC mets),   True
+186753,  Coronary atherosclerosis of native coronary artery,          Acute coronary syndrome / unstable angina,True
+194302,  Other colostomy and enterostomy complication,                Small bowel obstruction (parastomal hernia),True
+176830,  Hemorrhage GI tract unspecified,                             Gastrointestinal bleed,                   False
+128089,  Unspecified septicemia,                                      Septicemia / urosepsis,                   False
+181521,  Congestive heart failure unspecified,                        Congestive heart failure,                 False
+146302,  Other diseases of spleen,                                    Splenic hematoma,                         False
+130788,  Other diseases of trachea and bronchus NEC,                  Tracheomalacia / subglottic stenosis,     False
+166328,  Other postoperative infection,                               Postoperative wound infection,            False

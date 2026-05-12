@@ -1,0 +1,5 @@
+.env
+__pycache__/
+medgemma_judge_accuracy_results.csv
+medgemma_judge_reasoning_results.csv
+*.ipynb_checkpoints
